@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "add pre or post hooks to your methods",
   "main": "index.js",
+  "devDependencies": {
+    "mocha": "*"
+  },
   "directories": {
     "test": "test"
   },
